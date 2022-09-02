@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MapleeeSyruppp
-- 👀 I’m interested in gaming and programming
+- 👀 I’m interested in Javascript and Game Development
 - 🌱 I’m currently learning Computer Progamming at Seneca College
 - 📫 How to reach me ...
 
